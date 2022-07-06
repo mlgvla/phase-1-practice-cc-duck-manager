@@ -29,6 +29,12 @@
       "name": "Spiderduck",
       "img_url": "https://amsterdamduckstore.com/wp-content/uploads/2015/08/spidy-rubber-duck-leaning.jpg",
       "likes": 7
+    },
+    {
+      "name": "Daffy Duck",
+      "img_url": "https://p.kindpng.com/picc/s/488-4885707_daffyduck-looneytunes-warnerbroscharacters-freetoedit-daffy-duck-hd-png.png",
+      "likes": 0,
+      "id": 6
     }
   ]
 }
